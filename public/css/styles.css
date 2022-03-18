@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@700&family=Comfortaa:wght@300;400;700&family=Dosis:wght@700&family=Fredoka&family=Heebo:wght@600;700&family=Hubballi&family=IBM+Plex+Sans:wght@600&family=Jura:wght@400;500&family=Kanit:wght@300&family=League+Spartan:wght@500&family=Montserrat:wght@500&family=Nanum+Gothic:wght@800&family=Nunito:ital,wght@0,600;1,800&family=Oxygen:wght@700&family=PT+Serif:ital,wght@0,700;1,700&family=Poppins:ital,wght@0,100;0,200;0,300;1,400&family=Prompt:wght@300;400;700&family=Quicksand:wght@500;700&family=Rubik:ital,wght@1,500&family=Saira+Condensed:wght@500&family=Signika:wght@629&family=Smooch+Sans&family=Varela+Round&display=swap');
+
 body {
     color: #333333;
     font-family: arial;
@@ -54,4 +56,10 @@ button {
     background: #E05560;
     color: white;
     padding: 8px;
+}
+
+.texting{
+    font-family: 'Hubballi', cursive;
+    font-weight: bold;
+    font-size: 2rem;
 }
